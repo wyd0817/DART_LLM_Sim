@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{be8425e7-fe2b-c62c-d2dc-cd5452bc8ae4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{5bbeb027-782d-8046-2a76-6bee17f08588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperaSimPhysXAssembly", "OperaSimPhysXAssembly.csproj", "{6e74002b-c68b-5a49-bbe9-744a2d58a533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-PID", "CSharp-PID.csproj", "{017bc42d-f382-fb75-e565-d28cee6a04db}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{be8425e7-fe2b-c62c-d2dc-cd5452bc8ae4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{be8425e7-fe2b-c62c-d2dc-cd5452bc8ae4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5bbeb027-782d-8046-2a76-6bee17f08588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5bbeb027-782d-8046-2a76-6bee17f08588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6e74002b-c68b-5a49-bbe9-744a2d58a533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6e74002b-c68b-5a49-bbe9-744a2d58a533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017bc42d-f382-fb75-e565-d28cee6a04db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017bc42d-f382-fb75-e565-d28cee6a04db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
